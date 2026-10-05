@@ -4,7 +4,18 @@
 
 **Power BI** dashboard to track the retailers enrolled in the **Suvinil ADS ON** program: each store's activation status, contact profiles, contracted plans, geographic distribution, and access to every retailer's individual dashboard.
 
-> **Data last updated:** 2026-10-05 (shown in the report header)
+ 🔗 **[Open the dashboard in Power BI](https://app.powerbi.com/view?r=eyJrIjoiYzE1ZjYyZWEtYWFkYi00OTg1LWEzMmUtYzlkMWQ1MDNlMTM5IiwidCI6ImFkMWExMmJkLWU1NzctNDA2NC1iOWQ1LTBhMzkwMzgwYjk0OCJ9)**
+
+
+
+
+
+
+
+
+<img width="1630" height="787" alt="Captura de ecrã 2026-10-05 215724" src="https://github.com/user-attachments/assets/49f42725-88e3-4b06-8417-b7a3ef9b667a" />
+<img width="1671" height="893" alt="Captura de ecrã 2026-10-05 214919" src="https://github.com/user-attachments/assets/8b0c3039-bdf1-4c67-852a-3fa30f9835eb" />
+
 
 ---
 
