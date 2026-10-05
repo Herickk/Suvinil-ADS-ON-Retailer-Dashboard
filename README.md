@@ -4,7 +4,21 @@
 
 Dashboard em **Power BI** para acompanhar os lojistas cadastrados no programa **Suvinil ADS ON**: situação de cada loja no fluxo de ativação, perfil dos contatos, planos contratados, distribuição geográfica e acesso ao dashboard individual de cada lojista.
 
-> **Última atualização dos dados:** 05/10/2026 (indicada no cabeçalho do relatório)
+
+🔗 **[Abrir o dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYzE1ZjYyZWEtYWFkYi00OTg1LWEzMmUtYzlkMWQ1MDNlMTM5IiwidCI6ImFkMWExMmJkLWU1NzctNDA2NC1iOWQ1LTBhMzkwMzgwYjk0OCJ9)**
+
+
+
+
+<img width="1630" height="787" alt="Captura de ecrã 2026-10-05 215724" src="https://github.com/user-attachments/assets/2a74084b-32bc-4327-866e-87016231f215" />
+<img width="1671" height="893" alt="Captura de ecrã 2026-10-05 214919" src="https://github.com/user-attachments/assets/d3d7014b-50c8-43b9-aa67-ffabab8b2c94" />
+
+
+
+
+
+
+
 
 ---
 
